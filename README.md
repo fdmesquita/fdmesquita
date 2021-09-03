@@ -1,4 +1,4 @@
-<h2>Hello World!</h2>
+<h2>Hello World! </h2>
 
 <p>Graphic Designer actually in training at the Wild Code School in full remote and currently on the path of becoming a <strong>fullstack javascript web developer</strong> in Bordeaux France.</p>
 
@@ -7,14 +7,13 @@
 <section>
 <h2>In brief</h2>
 <ul>
-  <li><strong>Soft skills:</strong> <i>autonomous, creative, persistent, good communication</i></li>
-  <li><strong>Tech skills:</strong> <i>react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS with some notions on Tailwind and SASS</i></li> 
+  <li><strong>Soft skills:</strong> <i>autonomous, creative, persistent, good communication...</i></li>
+  <li><strong>Tech skills:</strong> <i>react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS...</i></li> 
   <li><strong>Other skills:</strong> <i>database modelisation, project presentation, wireframe, mock-up...</i></li>
   <li><strong>Tools:</strong> <i>slack, Discord, GitHub, VS Code, Figma, google slide, ...</i></li>
-  <li><strong>Agility:</strong> <i>scrum with Trello, planitpoker</i></li>
+  <li><strong>Agility:</strong> <i>scrum with Trello, planitpoker...</i></li>
 </ul>
 </section>
-
 <br>
 <section>
   <blockquote>
@@ -23,13 +22,12 @@
   </blockquote>
 </section>
 <br>
-
 <section>
   <h2>Connect with me</h2>
-  <a href "https://www.linkedin.com/in/fannydemesquita/" rel="nofollow"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
-  <a href "https://stackoverflow.com/users/15691350/de-mesquita-fanny" rel="nofollow"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />
-  <a href "https://www.codewars.com/users/Kalraj" rel="nofollow"> <img src="https://camo.githubusercontent.com/e89c99012d28509b650c83b5a44b7addf7373b7f5df14ee7c014eae3cb81d855/68747470733a2f2f736869656c64732e696f2f62616467652f2d636f6465776172732d4231333631453f267374796c653d666f722d7468652d6261646765266c6f676f3d636f646577617273266c6f676f436f6c6f723d7768697465" alt="codewar" />
-    <a href "https://codesandbox.io/u/Kalraj" rel="nofollow"> 
+  <a href ="https://www.linkedin.com/in/fannydemesquita/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
+  <a href ="https://stackoverflow.com/users/15691350/de-mesquita-fanny" target="_blank"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />
+  <a href ="https://www.codewars.com/users/Kalraj" target="_blank"> <img src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" alt="codewar" />
+    <a href ="https://codesandbox.io/u/Kalraj" target="_blank"> 
     <img src="https://img.shields.io/badge/codesandbox-4A154B?style=for-the-badge&logo=codesandbox&logoColor=white%22" alt="codesandbox" />
 </section>
   
