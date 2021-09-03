@@ -24,10 +24,10 @@
 <br>
 <section>
   <h2>Connect with me</h2>
-  <a href ="https://www.linkedin.com/in/fannydemesquita/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
-  <a href ="https://stackoverflow.com/users/15691350/de-mesquita-fanny" target="_blank"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />
-  <a href ="https://www.codewars.com/users/Kalraj" target="_blank"> <img src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" alt="codewar" />
-    <a href ="https://codesandbox.io/u/Kalraj" target="_blank"> 
+  <a href ="https://www.linkedin.com/in/fannydemesquita/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
+  <a href ="https://stackoverflow.com/users/15691350/de-mesquita-fanny" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />
+  <a href ="https://www.codewars.com/users/Kalraj" target="_blank" rel="noreferrer noopener"> <img src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" alt="codewar" />
+    <a href ="https://codesandbox.io/u/Kalraj" target="_blank" rel="noreferrer noopener"> 
     <img src="https://img.shields.io/badge/codesandbox-4A154B?style=for-the-badge&logo=codesandbox&logoColor=white%22" alt="codesandbox" />
 </section>
   
