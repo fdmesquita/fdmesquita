@@ -1,10 +1,10 @@
-### Hello World 👋
-🛤 <h1>Graphic designer actually in training at the Wild Code School in full remote and currently on the path of becoming a fullstack javascript web developer in Bordeaux France.</h1>
+<h1>Hello World 👋 <h1>
+<h2>🛤  Graphic designer actually in training at the Wild Code School in full remote and currently on the path of becoming a fullstack javascript web developer in Bordeaux France.</h2>
 
-🌱 <p>Learning and working on multiple project frontend and backend at the Wild Code School. In this school the mantra is 'learn how to learn' and so we do.</p>
+<p>🌱  Learning and working on multiple project frontend and backend at the Wild Code School. In this school the mantra is 'learn how to learn' and so we do.</p>
 
-🔎 <section>
- <h3>In brief</h3>
+<section>
+ <h3>🔎  In brief</h3>
 -   **Soft skills** _autonomous, creative, persistent, good communication_
 -   **Tech skills** _react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS with some notions on Tailwind and SASS_
 -   **Other skills** _database modelisation, project presentation, wireframe, mock-up
