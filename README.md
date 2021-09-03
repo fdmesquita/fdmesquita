@@ -1,11 +1,11 @@
-<h2>Hello World 👋 </h2>
+<h2>Hello World!</h2>
 
 <p>Graphic Designer actually in training at the Wild Code School in full remote and currently on the path of becoming a <strong>fullstack javascript web developer</strong> in Bordeaux France.</p>
 
   <p>After several years spent as a graphic designer in France and Canada and with already some rudiment in HTML and CSS, I decided to go a step further and to become a web developer full stack. I really enjoy learning new things and coding even though quite challenging and sometimes upsetting (looking at you syntax) it is such a joy when you finally find the solution and everything goes finally the way you intend it to be.</p>
   
 <section>
-<h3>In brief</h3>
+<h2>In brief</h2>
 <ul>
   <li><strong>Soft skills:</strong> <i>autonomous, creative, persistent, good communication</i></li>
   <li><strong>Tech skills:</strong> <i>react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS with some notions on Tailwind and SASS</i></li> 
@@ -25,7 +25,7 @@
 <br>
 
 <section>
-  <h3>Connect with me</h3>
+  <h2>Connect with me</h2>
   <a href "https://www.linkedin.com/in/fannydemesquita/" rel="nofollow"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
   <a href "https://stackoverflow.com/users/15691350/de-mesquita-fanny" rel="nofollow"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />
   <a href "https://www.codewars.com/users/Kalraj" rel="nofollow"> <img src="https://camo.githubusercontent.com/e89c99012d28509b650c83b5a44b7addf7373b7f5df14ee7c014eae3cb81d855/68747470733a2f2f736869656c64732e696f2f62616467652f2d636f6465776172732d4231333631453f267374796c653d666f722d7468652d6261646765266c6f676f3d636f646577617273266c6f676f436f6c6f723d7768697465" alt="codewar" />
@@ -34,7 +34,7 @@
 </section>
   
 <section>
-  <h3>Expertise</h3>
+  <h2>Expertise</h2>
   <img src="https://shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
