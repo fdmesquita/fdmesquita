@@ -12,7 +12,7 @@
  
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fannydemesquita/)
+[<a href "https://www.linkedin.com/in/fannydemesquita/" rel="nofollow"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />]
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15691350/de-mesquita-fanny)
 [<img align="left" alt="codewar" src="data-canonical-src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/Kalraj)
 <br>
