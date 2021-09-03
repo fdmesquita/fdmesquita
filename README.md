@@ -1,15 +1,16 @@
 ### Hello World 👋
-🛤 Graphic designer actually in training at the Wild Code School in full remote and currently on the path of becoming a fullstack javascript web developer in Bordeaux France.
+🛤 <h1>Graphic designer actually in training at the Wild Code School in full remote and currently on the path of becoming a fullstack javascript web developer in Bordeaux France.</h1>
 
-🌱 Learning and working on multiple project frontend and backend at the Wild Code School. In this school the mantra is 'learn how to learn' and so we do.
+🌱 <p>Learning and working on multiple project frontend and backend at the Wild Code School. In this school the mantra is 'learn how to learn' and so we do.</p>
 
-🔎 ## In brief
+🔎 <section>
+ <h3>In brief</h3>
 -   **Soft skills** _autonomous, creative, persistent, good communication_
 -   **Tech skills** _react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS with some notions on Tailwind and SASS_
 -   **Other skills** _database modelisation, project presentation, wireframe, mock-up
 -   **Tools** _slack, Discord, GitHub, VS Code, Figma, google slide, ..._
 -   **Agile** _scrum with Trello, planitpoker_
- 
+ </section>
 <br>
 ##Connect with me
 <a href "https://www.linkedin.com/in/fannydemesquita/" rel="nofollow"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
