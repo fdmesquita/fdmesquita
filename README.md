@@ -11,10 +11,10 @@
 -   **Agile** _scrum with Trello, planitpoker_
  
 <br>
-## Connect with me
-[<a href "https://www.linkedin.com/in/fannydemesquita/" rel="nofollow"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />]
-[<a href "https://stackoverflow.com/users/15691350/de-mesquita-fanny" rel="nofollow"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />]
-[<a href "https://www.codewars.com/users/Kalraj" rel="nofollow"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="codewar" />]
+##Connect with me
+<a href "https://www.linkedin.com/in/fannydemesquita/" rel="nofollow"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" />
+<a href "https://stackoverflow.com/users/15691350/de-mesquita-fanny" rel="nofollow"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="stack-overflow" />
+<a href "https://www.codewars.com/users/Kalraj" rel="nofollow"> <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="codewar" />
 <br>
 <br>
 ## Expertise
