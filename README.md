@@ -10,7 +10,7 @@
   <li><strong>Soft skills:</strong> <i>autonomous, creative, persistent, good communication...</i></li>
   <li><strong>Tech skills:</strong> <i>react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS...</i></li> 
   <li><strong>Other skills:</strong> <i>database modelisation, project presentation, wireframe, mock-up...</i></li>
-  <li><strong>Tools:</strong> <i>slack, Discord, GitHub, VS Code, Figma, google slide, ...</i></li>
+  <li><strong>Tools:</strong> <i>Slack, Discord, GitHub, VS Code, Figma, google slide, ...</i></li>
   <li><strong>Agility:</strong> <i>scrum with Trello, planitpoker...</i></li>
 </ul>
 </section>
