@@ -8,10 +8,10 @@
 <h2>In brief</h2>
 <ul>
   <li><strong>Soft skills:</strong> <i>autonomous, creative, persistent, good communication...</i></li>
-  <li><strong>Tech skills:</strong> <i>react with Material UI framework, Node.js with Express framework, mySQL, HTML, CSS...</i></li> 
-  <li><strong>Other skills:</strong> <i>database modelisation, project presentation, wireframe, mock-up...</i></li>
-  <li><strong>Tools:</strong> <i>Slack, Discord, GitHub, VS Code, Figma, google slide, ...</i></li>
-  <li><strong>Agility:</strong> <i>scrum with Trello, planitpoker...</i></li>
+  <li><strong>Tech skills:</strong> <i>react with Material UI framework, Svelte, Jest, Node.js with Express framework, mySQL, HTML, CSS, SASS...</i></li> 
+  <li><strong>Other skills:</strong> <i>database modelisation, Swagger, project presentation, wireframe, mock-up...</i></li>
+  <li><strong>Tools:</strong> <i>Design System with Storybook, Dynatrace, Teams, Slack, Discord, GitLab for MEP, GitHub, VS Code, Figma, google slide, ...</i></li>
+  <li><strong>Agility:</strong> <i>scrum with Trello or Jira, planitpoker, metroRetro...</i></li>
 </ul>
 </section>
 <br>
